@@ -1,172 +1,107 @@
-# 👋 Hi, I'm Bekzat Egizbaev
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Bekzat Egizbaev**
 
-### DevOps Engineer | Infrastructure Automation | Kubernetes | Terraform | GitLab CI/CD
+<h3 align="center">
+DevOps Engineer • Infrastructure Automation • Kubernetes • Terraform
+</h3>
 
-I'm a DevOps Engineer from Kazakhstan with hands-on experience in designing, automating, and maintaining modern infrastructure.
-
-My primary focus is Infrastructure as Code, container platforms, CI/CD pipelines, Linux administration, virtualization, and monitoring.
-
----
-
-## 🚀 About Me
-
-* 🔧 DevOps Engineer
-* 🇰🇿 Based in Kazakhstan
-* ☁️ Building reliable and automated infrastructure
-* 🐧 Linux enthusiast
-* 📚 Currently improving my cloud and Kubernetes skills
-* 🌍 Learning English for international opportunities
+<p align="center">
+Building reliable infrastructure with automation, containers and modern DevOps practices.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### Cloud & Virtualization
+<p align="center">
 
-* Proxmox VE
-* VMware
-* Hyper-V
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,gitlab,github,prometheus,grafana,bash,python,vscode&perline=6"/>
 
-### Containers
-
-* Docker
-* Kubernetes
-* Helm
-
-### Infrastructure as Code
-
-* Terraform
-* Ansible
-
-### CI/CD
-
-* GitLab CI/CD
-* GitHub Actions
-
-### Monitoring
-
-* Prometheus
-* Grafana
-* Node Exporter
-
-### Operating Systems
-
-* Ubuntu
-* Debian
-* CentOS
-* Windows Server
-
-### Networking
-
-* Cisco IOS
-* VPN
-* NAT
-* DMVPN
-* VLAN
-* Routing
-
-### Scripting
-
-* Bash
-* Python (Basic)
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Statistics
 
-### 🚀 Terraform Proxmox
+<p align="center">
 
-Provision virtual machines automatically using Terraform.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bekzatv&show_icons=true&theme=github_dark&hide_border=true"/>
 
-**Stack**
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekzatv&layout=compact&theme=github_dark&hide_border=true"/>
 
-* Terraform
-* Proxmox
-* Cloud-init
+</p>
 
----
+<p align="center">
 
-### ⚙️ Kubernetes Lab
+<img src="https://streak-stats.demolab.com?user=bekzatv&theme=github-dark&hide_border=true"/>
 
-Production-like Kubernetes laboratory.
-
-Includes:
-
-* Deployments
-* Services
-* Ingress
-* Persistent Volumes
-* ConfigMaps
-* Secrets
+</p>
 
 ---
 
-### 🔄 GitLab CI/CD Templates
+## 🏗 My DevOps Stack
 
-Reusable CI/CD pipelines for:
+✔ Kubernetes
 
-* Docker Build
-* Terraform Validate
-* Terraform Plan
-* Deployment
+✔ Docker
 
----
+✔ Terraform
 
-### 📊 Monitoring Stack
+✔ Ansible
 
-Monitoring infrastructure using
+✔ GitLab CI/CD
 
-* Prometheus
-* Grafana
-* Alertmanager
+✔ Proxmox VE
 
----
+✔ Linux Administration
 
-### 🐳 Docker Lab
+✔ Cisco Networking
 
-Collection of Docker and Docker Compose examples.
+✔ Monitoring (Prometheus + Grafana)
+
+✔ Bash Automation
 
 ---
 
-### 🏠 DevOps Homelab
+## 🚀 Featured Projects
 
-Complete home infrastructure including:
-
-* Cisco Router
-* Proxmox Cluster
-* Ubuntu Servers
-* GitLab Runner
-* Docker
-* Kubernetes
-* Monitoring
+| Project               | Description                                                        |
+| --------------------- | ------------------------------------------------------------------ |
+| 🚀 Terraform Proxmox  | Infrastructure as Code for Proxmox VE                              |
+| ☸ Kubernetes Lab      | Production-style Kubernetes cluster                                |
+| ⚙ GitLab CI Templates | Reusable CI/CD pipelines                                           |
+| 📊 Monitoring Stack   | Prometheus + Grafana + Alertmanager                                |
+| 🏠 DevOps Homelab     | Complete infrastructure with Cisco, Proxmox, Docker and Kubernetes |
+| 🐳 Docker Lab         | Docker Compose and production containers                           |
 
 ---
 
-## 📈 Currently Learning
+## 📈 Contribution Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekzatv&theme=github-dark"/>
+
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+* GitOps
 * Argo CD
 * AWS
-* Azure
 * Kubernetes Security
-* GitOps
 
 ---
 
-## 🎯 Goals for 2026
+## 🌍 Connect
 
-* Earn Kubernetes certifications
-* Expand cloud expertise
-* Build production-grade open-source projects
-* Contribute to the DevOps community
+GitHub: https://github.com/bekzatv
 
----
+LinkedIn: *(add your LinkedIn profile here)*
 
-## 📫 Connect with Me
-
-* LinkedIn
-* GitHub
-* Email
+Email: *(add your email if you want recruiters to contact you)*
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
