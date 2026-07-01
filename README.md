@@ -15,9 +15,6 @@ Building reliable infrastructure with automation, containers and modern DevOps p
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,gitlab,github,prometheus,grafana,bash,python,vscode&perline=6"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
